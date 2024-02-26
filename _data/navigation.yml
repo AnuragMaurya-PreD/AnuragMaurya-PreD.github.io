@@ -1,10 +1,10 @@
 # main links links
 main:
 
-  - title: "Research and Projects"
-    url: /talks/    
+  # - title: "Research and Projects"
+  #   url: /talks/    
     
-  - title: "Portfolio"
+  - title: "Research and Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
