@@ -17,30 +17,30 @@ Education
 
 Achievements
 ======
-* Silver Medal, InterIIT Techmeet 11.0: Drone Challenge | Fused Aruco estimations & IMU data using Kalman filter
-* Bronze Medal, InterIIT Techmeet 10.0: IoT Challenge | Used LoRA WAN and data logging: Smart Agriculture
-* Awarded Mr.Techy, Utkarsh’20, IITMandi |  Won 5 events on Robotics and Chassis Design in intra-college fest
+* Silver Medal, InterIIT Techmeet 11.0: Drone Challenge , Fused Aruco estimations & IMU data using Kalman filter
+* Bronze Medal, InterIIT Techmeet 10.0: IoT Challenge , Used LoRA WAN and data logging: Smart Agriculture
+* Awarded Mr.Techy, Utkarsh’20, IITMandi ,  Won 5 events on Robotics and Chassis Design in intra-college fest
 
 Work experience
 ======
-* Research Assistant | Prof. Madhava Krishna | (Jan’24-present)
+* Research Assistant under Prof. Madhava Krishna  (Jan’24-present)
   * RRC Lab, IIIT Hyderabad 
   * Working on video object detection in adverse weather conditions
 
-* Research Assistant | (May’23-Oct’23)
-  * AIML Lab| TU Darmstadt,Germany
+* Research Assistant  (May’23-Oct’23)
+  * AIML Lab TU Darmstadt,Germany
   * Worked under Quentin Delfosse, Ph.D., AIML lab TU Darmstadt on explainable reinforcement learning
   * Trained surrogate models: Decision trees and ANNs on object-centric data for explaining existing DQN agents.
   * https://oc-atari.readthedocs.io/en/latest/
 
-* UG Student Assistant| (Jul’23-Sep’23)
-  * Interactive Robot Perception and Learning Lab | TU Darmstadt 
+* UG Student Assistant (Jul’23-Sep’23)
+  * Interactive Robot Perception and Learning Lab,  TU Darmstadt 
   * Worked on pick and place tasks on Franka Emika Panda for sorting of cubes
   * Created a gazebo simulation and utilized MoveIt python API for grasping in cluttered environments.
   * Github Link: https://github.com/AnuragMaurya-PreD/Franka_RobMan
 
-* Research Assistant  under Dr.Amit Shukla | (Jul’23-Sep’23)
-  * Centre of Artificial Intelligence and Robotics(CAIR) | Mandi, India 
+* Research Assistant  under Dr.Amit Shukla  (Jul’23-Sep’23)
+  * Centre of Artificial Intelligence and Robotics(CAIR)  Mandi, India 
   * Worked on power distribution, PCB designing and autonomy of wheelchair for medical assistance.
   *  Worked with SLAM algorithms( HectorSLAM & RTAB-MAP ),low level velocity control using PID
   * Fine-tuned and deployed attention-based regressive model for person detection in 2D range sequences using LiDAR.
